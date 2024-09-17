@@ -39,3 +39,4 @@ Test the Script:
 Input a target IP (e.g., 8.8.8.8) and port range to scan
 Verify the script outputs open/closed port statuses
 
+Python Scripting Port Scanning Link --> <a href="https://drive.google.com/file/d/1pwoOitX0C4B2YlPezQU90iLjvxUsKtB4/view?usp=drive_link">Port Scanning</a>
